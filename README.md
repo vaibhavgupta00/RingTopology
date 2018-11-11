@@ -1,2 +1,2 @@
 # RingTopology
-this program is provide basic structure of Ring Topology . USING multiTHREADing 
+this program provides basic structure of Ring Topology . USING multiTHREADing 
